@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 [![DuelistRaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=duelistraj&show_icons=true&theme=radical)
-)](https://github.com/duelistraj/github-readme-stats)
+](https://github.com/duelistraj/github-readme-stats)
