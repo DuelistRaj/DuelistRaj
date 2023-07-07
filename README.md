@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Test
+Test 2
 
 
 ![DuelistRaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=duelistraj&show_icons=true&theme=radical)
